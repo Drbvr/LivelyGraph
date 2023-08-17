@@ -29,3 +29,15 @@ LivelyGraph is an API-first platform. We'll be providing comprehensive API docum
 ## Future Developments
 
 We're planning to transition to a SaaS model and introduce an App Store for third-party apps. Developers can create apps using our GraphQL and LLM functions to offer users powerful visualizations and analyses.
+
+## Wiki
+
+For more detailed information on LivelyGraph's features, usage scenarios, installation & setup, and other aspects of the project, please visit our [wiki](https://github.com/Drbvr/LivelyGraph/wiki). The wiki provides comprehensive documentation and guidelines to help users and contributors get the most out of LivelyGraph.
+
+## Guidelines
+
+When contributing to the project, please follow these guidelines:
+
+- **README**: Use the README for a brief overview of the project, key features, usage, and other high-level information.
+- **Wiki**: Use the wiki for detailed documentation, including features, usage scenarios, installation & setup, and any other in-depth information.
+
