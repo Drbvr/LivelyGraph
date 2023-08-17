@@ -12,7 +12,7 @@ Welcome to the LivelyGraph project! As a contributor, your participation and con
 == Commit Messages ==
 
 * Write clear and concise commit messages.
-* Start the commit message with a short (max. 50 characters) summary, followed by a blank line and then a more detailed explanation if necessary.
+* Start the commit message with a short summary, followed by a blank line and then a more detailed explanation if necessary.
 
 == Pull Requests ==
 
