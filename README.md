@@ -15,9 +15,15 @@ LivelyGraph is an open-source platform that aggregates and queries data from var
 - **Personal Use**: Aggregate your social media, fitness tracker, bank account data, and more. Query this data for insights such as your location on a particular date or an analysis of your spending habits.
 - **Business Use**: Companies can aggregate and analyze business data from various sources, such as sales, customer, or employee data.
 
-## Open Source
+## Design Principles
 
-LivelyGraph is open source under the Apache License 2.0. We welcome contributions to extend its functionality.
+LivelyGraph is built on three foundational principles:
+
+1. **Data at the source**: Data is retrieved directly from the source whenever possible instead of copies to the LivelyGraph-platform.
+2. **Data Ownership**: Data owners maintain control over when, how, and by whom their data is used. Processed data is kept on the users system only.
+3. **Open source**: LivelyGraph is open source under the Apache License 2.0. We welcome contributions to extend its functionality.
+
+These principles guide our approach to creating a transparent, user-centric platform. For more detailed information on our design principles, please visit our [Design Principles](https://github.com/Drbvr/LivelyGraph/wiki/Design-Principles) wiki page.
 
 ## Platform & Documentation (Planned)
 
