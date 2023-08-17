@@ -1,6 +1,14 @@
-# LivelyGraph: API Aggregator and Data Query Platform
+## LivelyGraph: Your Data, Your Way
 
-LivelyGraph is an open-source platform that aggregates and queries data from various APIs. It allows users to seamlessly compile their personal and business data and gain insights through querying and analysis. The project is still in its planning phase and we're excited about the features we're planning to bring.
+LivelyGraph is an open-source platform that empowers you to aggregate, query, and analyze your data from various online services, all in one place. With features like API connectors, GraphQL interface, and LLM integration, LivelyGraph offers a seamless, valuable, and secure experience. It allows users to seamlessly compile their personal and business data and gain insights through querying and analysis. The project is still in its planning phase and we're excited about the features we're planning to bring.
+
+- **Aggregate Your Data**: Connect your accounts and view all your data in one place.
+- **Query Your Data**: Use our GraphQL interface or natural language queries.
+- **Retain Ownership**: Your data belongs to you. We prioritize data ownership and privacy.
+- **Permission-Based Sharing**: Share your data on your terms.
+- **Interoperability**: Easily integrate with other systems.
+
+Discover the value in your data with LivelyGraph. For more details, visit our [wiki](https://github.com/Drbvr/LivelyGraph/wiki).
 
 ## Key Features (Planned)
 
@@ -9,6 +17,7 @@ LivelyGraph is an open-source platform that aggregates and queries data from var
 - **GraphQL Interface**: Query your aggregated data in a customized and flexible way.
 - **Large Language Model (LLM) Integration**: Ask questions in natural language and get accurate answers from your aggregated data.
 - **Data Ownership**: Retain full ownership of your data. We prioritize data privacy and integrity.
+- **Third party services**: Developers will be able to create apps using our GraphQL and LLM functions to provide users with powerful visualizations and analyses.
 
 ## Usage Scenarios (Planned)
 
@@ -28,10 +37,6 @@ These principles guide our approach to creating a transparent, user-centric plat
 ## Platform & Documentation (Planned)
 
 LivelyGraph is an API-first platform. Comprehensive API documentation will be provided in the future. Mobile and web applications are planned for later phases.
-
-## Future Developments
-
-We're planning to transition to a SaaS model and introduce an App Store for third-party apps. Developers will be able to create apps using our GraphQL and LLM functions to provide users with powerful visualizations and analyses.
 
 ## Get Involved
 
