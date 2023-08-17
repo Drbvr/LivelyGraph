@@ -1,31 +1,36 @@
 # LivelyGraph: API Aggregator and Data Query Platform
 
-Welcome to LivelyGraph, an open-source API Aggregator and Data Query Platform, designed to aggregate, query, and analyze data from various APIs. Our powerful tool allows users to seamlessly aggregate their personal and business data and gain insights through querying and analysis.
+LivelyGraph is an open-source platform that aggregates and queries data from various APIs. It allows users to seamlessly compile their personal and business data and gain insights through querying and analysis. The project is still in its planning phase and we're excited about the features we're planning to bring.
 
-## Features
+## Key Features (Planned)
 
-- **API Connectors**: LivelyGraph offers connectors to a wide variety of APIs, enabling users to aggregate their data in one place.
-- **Raw Data Browsing**: Users can browse the raw data from the APIs directly on our platform.
-- **GraphQL Interface**: LivelyGraph provides a GraphQL interface for users to query their aggregated data in a customized and flexible way.
-- **Large Language Model (LLM) Integration**: We integrate an advanced LLM for natural language querying. Users can ask questions in natural language, and the LLM processes data from all connected accounts to provide accurate answers.
-- **Data Ownership**: Users retain ownership of their data. LivelyGraph prioritizes data privacy and integrity.
+- **API Connectors**: Access a wide range of APIs and aggregate your data in one place.
+- **Raw Data Browsing**: Browse the raw data directly on our platform.
+- **GraphQL Interface**: Query your aggregated data in a customized and flexible way.
+- **Large Language Model (LLM) Integration**: Ask questions in natural language and get accurate answers from your aggregated data.
+- **Data Ownership**: Retain full ownership of your data. We prioritize data privacy and integrity.
 
-## For Personal Use
+## Usage Scenarios (Planned)
 
-Aggregate your data from social media accounts, fitness trackers, bank accounts, and more. Your data will never leave your own system unless you choose so. Query this data to gain insights like where you were on a particular date or analyze your spending habits.
-
-## For Business Use
-
-Companies can aggregate business data from various sources to gain valuable insights. Whether it's sales data, customer data, or employee data, LivelyGraph enables quick, comprehensive analysis.
+- **Personal Use**: Aggregate your social media, fitness tracker, bank account data, and more. Query this data for insights such as your location on a particular date or an analysis of your spending habits.
+- **Business Use**: Companies can aggregate and analyze business data from various sources, such as sales, customer, or employee data.
 
 ## Open Source
 
-LivelyGraph is fully open source under the Apache License 2.0. We encourage developers to contribute to the project and extend its functionality.
+LivelyGraph is open source under the Apache License 2.0. We welcome contributions to extend its functionality.
 
-## Platform & Documentation
+## Platform & Documentation (Planned)
 
-LivelyGraph is an API-first platform. We'll be providing comprehensive API documentation to guide users on how to connect and work with different APIs. Mobile and web applications will be developed in later phases.
+LivelyGraph is an API-first platform. Comprehensive API documentation will be provided in the future. Mobile and web applications are planned for later phases.
 
 ## Future Developments
 
-We're planning to transition to a SaaS model and introduce an App Store for third-party apps. Developers can create apps using our GraphQL and LLM functions to offer users powerful visualizations and analyses.
+We're planning to transition to a SaaS model and introduce an App Store for third-party apps. Developers will be able to create apps using our GraphQL and LLM functions to provide users with powerful visualizations and analyses.
+
+## Get Involved
+
+We're excited to welcome contributors to LivelyGraph. If you're interested in contributing, please start from the [Issues](https://github.com/Drbvr/LivelyGraph/issues) list.
+
+## Learn More
+
+For more detailed information on LivelyGraph's planned features, usage scenarios, installation & setup, and other project details, please visit our [wiki](https://github.com/Drbvr/LivelyGraph/wiki).
