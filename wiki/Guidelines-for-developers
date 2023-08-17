@@ -6,7 +6,7 @@ Welcome to the LivelyGraph project! As a contributor, your participation and con
 
 * Follow the code style used in the existing codebase. Consistency is key.
 * Use meaningful variable and function names.
-* Comment your code to explain complex or non-intuitive parts.
+* Aim for readable code that doesn't need commenting. Only in exceptional cases comment your code to explain complex or non-intuitive parts.
 * Keep your code clean and modular.
 
 == Commit Messages ==
@@ -29,8 +29,9 @@ Welcome to the LivelyGraph project! As a contributor, your participation and con
 
 == Documentation ==
 
-* Update the documentation in /wiki/ as needed when you add or modify features, after a pull request the [GitHub wiki](https://github.com/Drbvr/LivelyGraph/wiki) will be automatically updated based on this folder.
+* Update user documentation in /wiki/ as needed when you add or modify features, after a pull request the [GitHub wiki](https://github.com/Drbvr/LivelyGraph/wiki) will be automatically updated based on this folder.
 * Follow the documentation style used in the existing documentation.
+* Technical documentation for LivelyGraph developers should not be necessary.
 
 == Communication ==
 
