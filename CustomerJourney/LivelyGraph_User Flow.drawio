@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net" modified="2023-08-22T18:53:29.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WuyqIDPZpO9_OZMBKsyh" version="21.6.6" type="google">
+  <diagram name="LivelyGraph_User Flow" id="FyyZUUE3ikFmIFqGwsaf">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ap98bvi7QyWg50ivfWtj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-1" target="ap98bvi7QyWg50ivfWtj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-1" value="Landing Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-3" target="ap98bvi7QyWg50ivfWtj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-5" target="ap98bvi7QyWg50ivfWtj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-5" value="View content and understand features &amp;amp; benefits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-7" target="ap98bvi7QyWg50ivfWtj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-7" value="Click on &quot;Sign Up&quot; button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-9" target="ap98bvi7QyWg50ivfWtj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-9" value="Enter Sign Up details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-11" target="ap98bvi7QyWg50ivfWtj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-11" value="Submit Sign Up Form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-13" target="ap98bvi7QyWg50ivfWtj-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-13" value="Email Verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-18" target="ap98bvi7QyWg50ivfWtj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-18" value="Complete Onboarding Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-20" target="ap98bvi7QyWg50ivfWtj-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-20" value="Redirect to Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-22" target="ap98bvi7QyWg50ivfWtj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-22" value="Clicks on &quot;Connect Accounts&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-24" target="ap98bvi7QyWg50ivfWtj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-24" value="Selects accounts they want to connect (e.g., Facebook, Google)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-26" target="ap98bvi7QyWg50ivfWtj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-26" value="LivelyGraph&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;starts aggregating data from connected accounts.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-66" target="ap98bvi7QyWg50ivfWtj-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-28" target="ap98bvi7QyWg50ivfWtj-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-28" value="User will navigate to the &quot;Query Data&quot; section." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-31" target="ap98bvi7QyWg50ivfWtj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-31" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;interacts with the GraphQL interface to query data or inputs natural language&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;queries.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="620" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-33" target="ap98bvi7QyWg50ivfWtj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-33" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;receives data insights and published to the insight page.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-35" target="ap98bvi7QyWg50ivfWtj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-35" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;selects specific data insights&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-36" target="ap98bvi7QyWg50ivfWtj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-36" value="Clicks on &quot;Share&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-39" target="ap98bvi7QyWg50ivfWtj-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-39" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;defines sharing settings, sets permissions&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-40" target="ap98bvi7QyWg50ivfWtj-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-40" value="&lt;div style=&quot;text-align: center; text-indent: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color); text-align: left; text-indent: -18pt;&quot;&gt;Shares data with specific&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color); text-align: left; text-indent: -18pt;&quot;&gt;recipients.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-41" target="ap98bvi7QyWg50ivfWtj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-41" value="User will navigate to the &quot;Subscription Management&quot; section." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-45" target="ap98bvi7QyWg50ivfWtj-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-45" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;selects a subscription plan based on their needs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-47" target="ap98bvi7QyWg50ivfWtj-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-47" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;selects a subscription plan based on their needs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="765" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-49" target="ap98bvi7QyWg50ivfWtj-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-49" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;confirms subscription changes and sees the updated billing information.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="765" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-51" target="ap98bvi7QyWg50ivfWtj-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-51" value="User will navigate to the &quot;Support&quot; section." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-53" target="ap98bvi7QyWg50ivfWtj-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-53" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;accesses support resources, knowledge base articles, and FAQs.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-55" target="ap98bvi7QyWg50ivfWtj-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-55" value="User&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;clicks &quot;Community&quot; to join discussions and contribute.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1060" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-57" target="ap98bvi7QyWg50ivfWtj-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-57" value="&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;User&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;continues to connect more accounts for comprehensive data analysis.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1060" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-59" target="ap98bvi7QyWg50ivfWtj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-59" value="&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;User&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left; background-color: initial; text-indent: -18pt;&quot;&gt;explores new features and updates regularly.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1060" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ap98bvi7QyWg50ivfWtj-60" target="ap98bvi7QyWg50ivfWtj-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-60" value="&lt;div style=&quot;text-align: center; text-indent: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color); text-align: left; text-indent: -18pt;&quot;&gt;User&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color); text-align: left; text-indent: -18pt;&quot;&gt;remains engaged in the LivelyGraph community and provides feedback.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1060" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-63" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1055" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ap98bvi7QyWg50ivfWtj-66" value="&lt;p style=&quot;line-height:150%&quot; class=&quot;MsoNormal&quot;&gt;Show overview page with some insights.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
