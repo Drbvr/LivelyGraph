@@ -11,7 +11,7 @@ LivelyGraph is an open-source platform that empowers you to aggregate, query, an
 Discover the value in your data with LivelyGraph. For more details, visit our [wiki](https://github.com/Drbvr/LivelyGraph/wiki).
 
 ## Key Features (Planned)
-- web user flow design: https://github.com/Drbvr/LivelyGraph/edit/main/CustomerJourney/LivelyGraph_User Flow.drawio.png
+- web user flow design: https://github.com/Drbvr/LivelyGraph/edit/main/CustomerJourney/LivelyGraph_User%20Flow.drawio.png
 
 - **API Connectors**: Access a wide range of APIs and aggregate your data in one place.
 - **Raw Data Browsing**: Browse the raw data directly on our platform.
