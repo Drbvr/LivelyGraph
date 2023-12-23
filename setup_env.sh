@@ -1,12 +1,12 @@
 #!/bin/bash
 
-echo "Creating a virtual environment..."
-python -m venv strava-env
+venv_name="strava-env"
 
-echo "Activating the virtual environment..."
-source strava-env/bin/activate
+echo "Creating virtual environment $venv_name"
+python -m venv $venv_name
+source $venv_name/bin/activate # on Windows use venv/\Scripts/activate
 
-echo "Installing required packages..."
-pip install requests
+echo "Installing dependencies"
+pip install Flask requests
 
-echo "Environment setup complete."
+echo "Setup complete. Use '.\n$venv_name/bin/activate' to activate the virtual environment"
