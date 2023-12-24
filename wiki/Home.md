@@ -37,5 +37,7 @@ Explore the LivelyGraph wiki to learn more about the project and how you can get
 - [[Usage Scenarios|usage-scenarios]] - Explore potential usage scenarios for personal and business users.
 - [[Installation & Setup|installation-&-setup]] - Get step-by-step instructions on setting up LivelyGraph.
 - [[Guide for developers|guide-for-developers]] - Contributors to the project are welcome to start following these guidelines.
+- Technical guides
+  - [[Azure function on root|Azure-function-on-root,md]] - How to adapt Azure function settings to access a function on the root of the domain.
 
 Join us in creating a powerful data aggregation and query platform that puts users in control of their data. Whether you're a user, contributor, or developer, LivelyGraph offers a solution that meets your needs.
